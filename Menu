@@ -27,7 +27,4 @@ case "$Select" in
 	./user-login.sh
 	exit
 		;;
-    echo "No Command Detect"
-    exit
-    ;; 
 esac
